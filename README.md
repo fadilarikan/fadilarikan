@@ -49,7 +49,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadilarikan&show_icons=true&locale=en&layout=compact" alt="fadilarikan" width= "50%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadilarikan&show_icons=true&true&theme=radical&locale=en&layout=compact" alt="fadilarikan" width= "50%" />
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=fadilarikan&show_icons=true&locale=en" alt="fadilarikan" width= "50%" /></p>
