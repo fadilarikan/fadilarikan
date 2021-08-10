@@ -54,4 +54,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=fadilarikan&show_icons=true&theme=dark&locale=en" alt="fadilarikan" width= "50%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadilarikan&" alt="fadilarikan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadilarikan&show_icons=true&theme=dark&locale=en" alt="fadilarikan" /></p>
