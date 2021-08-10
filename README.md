@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fadıl</h1>
 <h3 align="center">I graduated from Manisa Celal Bayar University Computer Engineering Department in July 2021 as the third in the department. In my long-term internship, I worked with the Django framework and gained experience in this field. I have studies in the field of machine learning with my own efforts. I want to improve myself in these two areas.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadilarikan&label=Profile%20views&color=0e75b6&style=flat" alt="fadilarikan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fadilarikan&label=Profile%20views&color=0e75b6&style=flat" alt="fadilarikan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadilarikan" alt="fadilarikan" /></a> </p>
 
