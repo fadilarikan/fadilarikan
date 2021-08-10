@@ -48,7 +48,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadilarikan&show_icons=true&true&theme=radical&locale=en&layout=compact" alt="fadilarikan" height="50" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadilarikan&show_icons=true&true&theme=radical&locale=en&layout=compact" alt="fadilarikan" height="100" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fadilarikan&show_icons=true&theme=dark&locale=en" alt="fadilarikan" width= "50%" /></p>
 
