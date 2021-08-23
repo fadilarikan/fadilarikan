@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django REST framework and Machine Learning Algorithms.**
 
-- 👨‍💻 All of my projects are available at GitHub repostories
+- 👨‍💻 All of my projects are available at GitHub Repositories
 
 - 📫 How to reach me **fadilarikan19664@gmail.com**
 
