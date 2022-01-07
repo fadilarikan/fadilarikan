@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **fadilarikan19664@gmail.com**
 
-- ⚡ **I'm currently open to work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
