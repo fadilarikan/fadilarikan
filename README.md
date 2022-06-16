@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at GitHub Repositories
 
-- 📫 How to reach me **fadilarikan19664@gmail.com**
+- 📫 How to reach me **fadilarikanwork@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
